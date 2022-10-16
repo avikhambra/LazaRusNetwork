@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-nav{
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.logo{
+    width: 40%;
+    padding-left: 55px;
+}
+
+.menu-link{
+    width: 60%;
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu-link > a:hover{
+    color: rgb(30, 30, 245);
+}
+
+.menu-link > a{
+    text-decoration: none;
+    font-weight: 4px;
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+ 
+

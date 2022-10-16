@@ -1,0 +1,60 @@
+.hero-section{
+    background-image: url("https://images.unsplash.com/photo-1658825922490-b02b5947ac6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    height: 635px;
+    width: 100%;
+}
+
+.hero-section > h1{
+    padding-top: 20px;
+    font-size: 80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-section > p{
+    font-style: oblique;
+    /* font-weight: 70%; */
+    padding-top: 20px;
+    font-size: 1.6rem;
+    color: rgb(175, 173, 173);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.explore{
+    background-color: rgb(44, 44, 253);
+    border: none;
+    color: white;
+    padding: 20px 62px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.learn{
+    background-color: rgb(255, 246, 246);
+    border: none;
+    color: black;
+    padding: 20px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px; 
+    cursor: pointer; 
+}
+
+.btn{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    
+}

@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 70px;
+}
+
+p{
+    font-style: oblique;
+    padding-top: 20px;
+    font-size: 1.4rem;
+    color: rgb(71, 71, 71);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width:1280px){ 
+    
+    .allbox{
+        /* background-color: rgb(91, 156, 253);  */
+        margin-top: 10px;
+        display: flex;
+        column-gap: 24px;
+        padding: 80px;
+        
+    
+    }
+
+    .box{
+        width: 33.3%;
+        border-radius: 24px;
+        background-color: rgb(201, 222, 255);  
+        
+    }
+
+
+}
+
+.a{
+    font-style: oblique;
+    padding-top: 0px;
+    font-size: 1.1rem;
+    color: rgb(42, 42, 42);
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+h3{
+    text-align: center;
+    font-size: 1.6rem;
+    padding-bottom: 10px;
+}
+
+.ak{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+
+
+
